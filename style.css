@@ -2,6 +2,7 @@
 
 body {
   background-color: #F8F8Ff;
+  color: #555;
 }
 
 .top {grid-area: top;}
@@ -107,7 +108,7 @@ height: 100%;
 }
 
 li:hover, li:focus{
-  color: #777777;
+  color: #aaaaaa;
 }
 
 
