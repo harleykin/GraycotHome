@@ -6,7 +6,8 @@ export const sites = [
   'https://vaea-v.neocities.org',
   'https://www.idi.moe/',
   'https://seirdy.one/',
-  'https://aroace.space/'
+  'https://aroace.space/',
+  'https://bulltown.2022.jenett.org/'
 ];
 
 
