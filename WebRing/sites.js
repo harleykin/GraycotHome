@@ -9,6 +9,7 @@ export const sites = [
   'https://aroace.space/',
   'https://bulltown.2022.jenett.org/',
   'https://fanlistings.nickifaulk.com/webrings/'
+  'https://rarimena.neocities.org/'
 ];
 
 
