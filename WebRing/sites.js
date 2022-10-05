@@ -7,8 +7,8 @@ export const sites = [
   'https://www.idi.moe/',
   'https://seirdy.one/',
   'https://aroace.space/',
-  'https://bulltown.2022.jenett.org/'
-  'https://fanlistings.nickifaulk.com/webrings/'
+  'https://bulltown.2022.jenett.org/',
+  'https://fanlistings.nickifaulk.com/webrings/',
   'https://johnlins.com/'
 ];
 
