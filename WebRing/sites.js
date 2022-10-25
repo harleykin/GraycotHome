@@ -1,6 +1,5 @@
 export const sites = [
   'https://graycot.com/webring/',
-  'https://list.graycot.com',
   'https://graystea.neocities.org/',
   'https://windigo.neocities.org/',
   'https://vaea-v.neocities.org',
